@@ -6,8 +6,8 @@ This desktop application will be used by administrative staff in the Office of R
 
 This project is a database-backed desktop application with a Windows Presentation Foundation (WPF) graphical front end, and the software is implemented in C#. In addition, the application needs a MySQL, the MySQL has been tested both on Sever and in XAMPP. Please download the repository and use XAMPP to run it.
 
-### 1. Start XAMPP's MySQL
-Start the MySQL on XAMPP Contol Panel.
+### 1. Start Apache and MySQL
+Start the Apache and MySQL on XAMPP Contol Panel.
 
 ### 2. Make sure database is correctly set
 This project's database is default running on localhost, please set the password on [DataConnection.cs](https://github.com/jxcharlie1991/ResearchAssessmentProgram/blob/main/Research%20Assessment%20Program/Database/DataConnection.cs).
@@ -19,4 +19,7 @@ Firstly, create a new database MUST be called "rap" (if you don't like the name,
 This application is implemented by C#, please download [Visual Studio](https://visualstudio.microsoft.com/) to run the original code. Then, download the whole repository, then open the file "Research Assessment Program.sln".
 
 ## Test
-This application doesn't have specific functionalities that need to be tested. Just have fun on it.
+
+The pictures on the database come from internet resources, sometimes the pictures' sizes and content would change, please ignore the pictures' formatting.
+
+In addtion, this application doesn't have specific functionalities that need to be tested. Just have fun on it. 
