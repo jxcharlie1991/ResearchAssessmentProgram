@@ -13,7 +13,7 @@ Start the Apache and MySQL on XAMPP Contol Panel.
 This project's database is default running on localhost, please set the password on [DataConnection.cs](https://github.com/jxcharlie1991/ResearchAssessmentProgram/blob/main/Research%20Assessment%20Program/Database/DataConnection.cs).
 
 ### 3. Transfer data
-Firstly, create a new database MUST be called "rap" (if you don't like the name, you need to modify the [DataConnection.cs](https://github.com/jxcharlie1991/ResearchAssessmentProgram/blob/main/Research%20Assessment%20Program/Database/DataConnection.cs), then import the [Database Data](https://github.com/jxcharlie1991/CourseManagementSystem/blob/main/localhost.sql) into the database.
+Firstly, create a new database MUST be called "rap" (if you don't like the name, you need to modify the [DataConnection.cs](https://github.com/jxcharlie1991/ResearchAssessmentProgram/blob/main/Research%20Assessment%20Program/Database/DataConnection.cs), then import the [Database Data](https://github.com/jxcharlie1991/ResearchAssessmentProgram/blob/main/Attachment/localhost.sql) into the database.
 
 ### 4. Open the website
 This application is implemented by C#, please download [Visual Studio](https://visualstudio.microsoft.com/) to run the original code. Then, download the whole repository, then open the file "Research Assessment Program.sln".
