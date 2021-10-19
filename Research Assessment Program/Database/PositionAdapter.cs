@@ -28,8 +28,8 @@ namespace Research_Assessment_Program.Database
                         ps.Add(new Position
                         {
                             Level = EmploymentLevel.Student,
-                            Start = rdr.GetDateTime(1).ToShortDateString(),
-                            End = rdr.GetDateTime(2).ToShortDateString()
+                            Start = rdr.GetDateTime(1),
+                            End = rdr.GetDateTime(2)
                         });
                     }
                     else if (rdr.IsDBNull(2))
@@ -37,8 +37,8 @@ namespace Research_Assessment_Program.Database
                         ps.Add(new Position
                         {
                             Level = (EmploymentLevel)Enum.Parse(typeof(EmploymentLevel), rdr.GetString(0)),
-                            Start = rdr.GetDateTime(1).ToShortDateString(),
-                            End = DateTime.Now.ToShortDateString()
+                            Start = rdr.GetDateTime(1),
+                            End = DateTime.Now
                         });
 
                     }
@@ -47,8 +47,8 @@ namespace Research_Assessment_Program.Database
                         ps.Add(new Position
                         {
                             Level = (EmploymentLevel)Enum.Parse(typeof(EmploymentLevel), rdr.GetString(0)),
-                            Start = rdr.GetDateTime(1).ToShortDateString(),
-                            End = rdr.GetDateTime(2).ToShortDateString()
+                            Start = rdr.GetDateTime(1),
+                            End = rdr.GetDateTime(2)
                         });
                     }
                 

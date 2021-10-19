@@ -29,27 +29,30 @@ namespace Research_Assessment_Program
         public MainWindow()
         {
             InitializeComponent();
-            //CompleteResearcher.PreviousData.Items.Clear();
+            CompleteResearcher.PreviousData.Items.Clear();
 
-            //ResearcherBasicView.bAC +=/*new EventHandler (*/ ResearcherBasicView_bAC;
-            //ResearcherCompleteView.rAP += ResearcherCompleteView_rAP;
+            ResearcherBasicView.bAC +=/*new EventHandler (*/ ResearcherBasicView_bAC;
+            ResearcherCompleteView.rAP += ResearcherCompleteView_rAP;
 
         }
 
-        //private void ResearcherCompleteView_rAP(object sender, EventArgs e)
-        //{
-        //    if (CompleteResearcher.PublicationList.SelectedItem != null)
-        //        CompletePublication.CompletePublicationList.DataContext = ResearcherController.completeR.specifiedPublication;
+        private void ResearcherCompleteView_rAP(object sender, EventArgs e)
+        {
+            if (CompleteResearcher.PublicationList.SelectedItem != null)
+                CompletePublication.CompletePublicationList.DataContext = ResearcherController.completeR.specifiedPublication;
 
-        //}
+        }
 
-        //private void ResearcherBasicView_bAC(object sender, EventArgs e)
-        //{
-        //    if (BasicResearcher.ResearcherList.SelectedItem != null)
-        //        CompleteResearcher.DataContext = ResearcherController.completeR;
-        //    //CompleteResearcher.PreviousData.Items.Clear();
-        //    CompleteResearcher.PreviousData.ItemsSource = ResearcherController.completeR.position;
-        //    CompleteResearcher.PublicationList.ItemsSource = ResearcherController.completeR.Publications;
-        //}
+        private void ResearcherBasicView_bAC(object sender, EventArgs e)
+        {
+            if (BasicResearcher.ResearcherList.SelectedItem != null)
+            {
+                CompleteResearcher.DataContext = ResearcherController.completeR;
+               
+                //CompleteResearcher.PreviousData.Items.Clear();
+                CompleteResearcher.PreviousData.ItemsSource = ResearcherController.completeR.position;
+                CompleteResearcher.PublicationList.ItemsSource = ResearcherController.completeR.Publications;
+            }
+        }
     }
 }

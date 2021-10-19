@@ -1,0 +1,179 @@
+﻿<UserControl x:Class="Research_Assessment_Program.View.ResearcherCompleteView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Research_Assessment_Program.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="300" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Name="CompleteResearcherList" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Name="NameBlock" Text="Name:" Margin="2" Grid.Column="0" Grid.Row="0" />
+            <TextBlock  Name="NameData" Text ="{Binding Name}" Margin="2" Grid.Column="1" Grid.Row="0"/>
+            <TextBlock Name="TitleBlock" Text="Title:" Margin="2" Grid.Column="0" Grid.Row="1"/>
+            <TextBlock Name="TitleData" Text="{Binding Path=Title}" Margin="2" Grid.Column="1" Grid.Row="1"/>
+            <TextBlock Name="UnitBlock" Text="Unit: " Margin="2" Grid.Column="0" Grid.Row="2"/>
+            <TextBlock Name="UnitData" Text="{Binding Path=Unit}" Margin="2" Grid.Column="1" Grid.Row="2"/>
+            <TextBlock Name="CampusBlock" Text="Campus:" Margin="2" Grid.Column="0" Grid.Row="3"/>
+            <TextBlock Name="CampusData" Text="{Binding Path=Campus}" Margin="2" Grid.Column="1" Grid.Row="3"/>
+            <TextBlock Name="EmailBlock" Text="Email:" Margin="2" Grid.Column="0" Grid.Row="4"/>
+            <TextBlock Name="EmailData" Text="{Binding Path=Email}" Margin="2" Grid.Column="1" Grid.Row="4"/>
+            <Image Name="PhotoData" Source="{Binding Photo}" Grid.Column="3" Grid.RowSpan="4" Stretch="Fill"/>
+        </Grid>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Name="JobBlock" Text="Current job:" Margin="2" Grid.Column="0"/>
+            <TextBlock Name="JobData" Text="{Binding Path=LevelTitle}" Margin="2" Grid.Column="1" />
+        </StackPanel>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Name="InstitutionBlock" Text="Commenced with Institution:" Margin="2" Grid.Column="0" Grid.Row="0"/>
+            <TextBlock Text="{Binding Path=UtasStart, StringFormat=dd-MM-yyyy}" Name="InstitutionData" Margin="2" Grid.Column="1" Grid.Row="0"/>
+            <TextBlock Name="PositionBlock" Text="Commenced with Position:" Margin="2" Grid.Column="0" Grid.Row="1"/>
+            <TextBlock Text="{Binding Path=CurrentStart, StringFormat=dd-MM-yyyy}" Name="PositionData" Margin="2" Grid.Column="1" Grid.Row="1"/>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Name="PreviousBlock" Text="Previous positions" Margin="2" Grid.Row="0"/>
+            <DataGrid Name="PreviousData" Margin="2" Grid.Row="1" CanUserAddRows="False" 
+                      IsReadOnly="True" AutoGenerateColumns="False" GridLinesVisibility="None">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="Start" Width="*" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Start, StringFormat=dd-MM-yyyy}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Header="End" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding End, StringFormat=dd-MM-yyyy}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>                   
+                    <DataGridTextColumn Header="Level"  Width="Auto" Binding="{Binding LevelTitle}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2">
+                <TextBlock Name="TenureBlock" Text="Tenure: " Margin="2"/>
+                <TextBlock Name="TenurData" Text="{Binding Tenure}" Margin="2" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="0" Grid.ColumnSpan="3">
+                <TextBlock Name="PublicationBlock"  Text="Publication: " Margin="2" />
+                <TextBlock Name="PublicationData" Text="{Binding PublicationsCount}" Margin="2" />
+                <Button Name="PublicationButton" Content="Cumulative" Margin="2" Click="PublicationButton_Click"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2">
+                <TextBlock Name="ThreeYearBlock" Text="3-year average: " Margin="2" />
+                <TextBlock Name="ThreeYearData" Text="{Binding ThreeYearAverage}" Margin="2" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="3">
+                <TextBlock Name="PerformanceBlock" Text="Performance: " Margin="2" />
+                <TextBlock Name="PerformanceData" Text="{Binding Performance}" Margin="2" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="5">
+                <TextBlock Name="SupervisionBlock" Text="Supervisions: " Margin="2" />
+                <TextBlock Name="SupervisionData" Text="{Binding SupervisesCount}" Margin="2" />
+                <Button Name="SupervisionButton" Content="Show Name" Margin="2" Click="SupervisionButton_Click"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2">
+                <TextBlock Name="DegreeBlock" Text="Degree: " Margin="2" />
+                <TextBlock Name="DegreeData" Text="{Binding Degree}" Margin="2" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="3" Grid.ColumnSpan="3">
+                <TextBlock Name="SupervisorBlock" Text="Supervisor:" Margin="2" />
+                <TextBlock Name="SupervisorData" Text="{Binding Supervisor}" Margin="2" />
+            </StackPanel>
+        </Grid>
+        <Grid  Grid.Row="5">
+            <Grid.ColumnDefinitions>
+             
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <TextBlock   Text="Filter by Year:" Margin="2" Grid.Column="1"/>
+            <TextBox Name="FormerTxt" Margin="2" Grid.Column="2" MinWidth="35"/>
+            <TextBlock Text="~" Margin="2" Grid.Column="3"/>
+            <TextBox Name="LaterTxt" Margin="2" Grid.Column="4" MinWidth="35"/>
+            <Button Name="Go" Content="Go" Margin="2" Click="Go_Click" Grid.Column="5"/>
+
+            <DataGrid Name="PublicationList" BorderBrush="Black"  AutoGenerateColumns="False"
+                      CanUserAddRows="False" SelectionChanged="PublicationList_SelectionChanged"
+                      IsReadOnly="True" GridLinesVisibility="None" VerticalScrollBarVisibility="Auto"
+                          Margin="2,2,2,10" Grid.Row="1" Grid.ColumnSpan="7">
+                <DataGrid.Columns >
+                    <DataGridTextColumn Header="Year"  Width="Auto" Binding="{Binding Year}" />
+
+                    <DataGridTemplateColumn Header="Title" Width="*" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Title}" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+
+
+
+
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </Grid>
+    </Grid>
+</UserControl>

@@ -21,8 +21,8 @@ namespace Research_Assessment_Program.Model
                 return ToTitle(Level);
             }
         }
-        public string Start { get; set; }
-        public string End { get; set; }
+        public DateTime Start { get; set; }
+        public DateTime End { get; set; }
         public static string ToTitle(EmploymentLevel L)
         {
             if (L.ToString() == "student")

@@ -16,10 +16,10 @@ namespace Research_Assessment_Program.Database
         /// <returns></returns>
         public static MySqlConnection GetConnection()
         {
-            string db = "kit206";
-            string user = "kit206";
-            string pass = "kit206";
-            string server = "alacritas.cis.utas.edu.au";
+            string db = "rap";
+            string user = "root";
+            string pass = "";
+            string server = "localhost";
             MySqlConnection conn = null;
             if (conn == null)
             {
@@ -36,12 +36,12 @@ namespace Research_Assessment_Program.Database
         /// <param name="e"></param>
         public static void ReportError(string msg, Exception e)
         {
-            bool reportingErrors = false;
-            if (reportingErrors)
-            {
+            //bool reportingErrors = false;
+            //if (reportingErrors)
+            //{
                 MessageBox.Show("An error occurred while " + msg + ". Try again later.\n\nError Details:\n" + e,
                     "Error", MessageBoxButton.OKCancel, MessageBoxImage.Error);
-            }
+            //}
         }
     }
 }

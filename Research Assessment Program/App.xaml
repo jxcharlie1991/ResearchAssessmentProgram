@@ -5,11 +5,11 @@
              xmlns:local="clr-namespace:Research_Assessment_Program.Controller" 
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <local:ResearcherController x:Key="Controller"/>
+        <local:ResearcherController x:Key="RList"/>
 
-        <ObjectDataProvider x:Key="RList" 
-                                ObjectInstance="{StaticResource Controller}"
-                                MethodName="LoadRList"/>
+        <ObjectDataProvider x:Key="Data" 
+                                ObjectInstance="{StaticResource RList}"
+                                MethodName=""/>
 
 
 

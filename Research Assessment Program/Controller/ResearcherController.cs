@@ -12,23 +12,11 @@ namespace Research_Assessment_Program.Controller
 
     class ResearcherController
     {
-        public Researcher completeR = new Researcher();
-        public ObservableCollection<Researcher> viewableresearcher =new ObservableCollection<Researcher>();
-        public List<Researcher> researchers = new List<Researcher> ();
-
-
-        public ObservableCollection<Researcher> LoadRList()
-        {
-           researchers = ResearcherAdapter.LoadBasicResearcher();
-            viewableresearcher = new ObservableCollection<Researcher>(researchers);
-
-
-            return viewableresearcher;
-        }
+        public static Researcher completeR = new Researcher();
+        public static List<Researcher> viewableresearcher = new List<Researcher>();
         public static List<Researcher> LevelFilter(List<Researcher> rs, string l)
         {
             List<Researcher> ors = new List<Researcher>();
-
             if (l == "All researchers")
             {
                 ors = rs;
@@ -42,7 +30,6 @@ namespace Research_Assessment_Program.Controller
                         ors.Add(r);
                 }
             }
-            // ObservableCollection<Researcher> v = new ObservableCollection<Researcher>(ors);
             return ors;
 
         }
@@ -106,42 +93,42 @@ namespace Research_Assessment_Program.Controller
         }
 
 
-        public static List<Publication> YearOrder(List<Publication> ps)
-        {
-            Publication temp;
-            if (ps[0].Year >= ps[ps.Count - 1].Year)
-            {
-                for (int i = 0; i < ps.Count - 1; i++)
-                {
-                    for (int j = 0; j < ps.Count - i - 1; j++)
-                    {
-                        if (ps[j].Year > ps[j + 1].Year)
-                        {
-                            temp = ps[j];
-                            ps[j] = ps[j + 1];
-                            ps[j + 1] = temp;
-                        }
-                    }
-                }
-            }
-            else
-            {
-                for (int i = 0; i < ps.Count - 1; i++)
-                {
-                    for (int j = 0; j < ps.Count - i - 1; j++)
-                    {
-                        if (ps[j].Year < ps[j + 1].Year)
-                        {
-                            temp = ps[j];
-                            ps[j] = ps[j + 1];
-                            ps[j + 1] = temp;
-                        }
-                    }
-                }
-            }
-            return ps;
+        //public static List<Publication> YearOrder(List<Publication> ps)
+        //{
+        //    Publication temp;
+        //    if (ps[0].Year >= ps[ps.Count - 1].Year)
+        //    {
+        //        for (int i = 0; i < ps.Count - 1; i++)
+        //        {
+        //            for (int j = 0; j < ps.Count - i - 1; j++)
+        //            {
+        //                if (ps[j].Year > ps[j + 1].Year)
+        //                {
+        //                    temp = ps[j];
+        //                    ps[j] = ps[j + 1];
+        //                    ps[j + 1] = temp;
+        //                }
+        //            }
+        //        }
+        //    }
+        //    else
+        //    {
+        //        for (int i = 0; i < ps.Count - 1; i++)
+        //        {
+        //            for (int j = 0; j < ps.Count - i - 1; j++)
+        //            {
+        //                if (ps[j].Year < ps[j + 1].Year)
+        //                {
+        //                    temp = ps[j];
+        //                    ps[j] = ps[j + 1];
+        //                    ps[j + 1] = temp;
+        //                }
+        //            }
+        //        }
+        //    }
+        //    return ps;
 
-        }
+        //}
 
         public static List<Publication> YearFilter(int former, int later, List<Publication> ps)
         {
@@ -156,6 +143,8 @@ namespace Research_Assessment_Program.Controller
             }
             return filtered;
         }
+
+       
     }
 
 }

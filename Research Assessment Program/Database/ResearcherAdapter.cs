@@ -89,8 +89,9 @@ namespace Research_Assessment_Program.Database
                     if (researcher.Level == EmploymentLevel.Student)
                     {
                         Student student = (Student)researcher;
+                        
                         student.Unit = rdr.GetString(0);
-                        student.Campus = rdr.GetString(1);
+                        student.Campus=rdr.GetString(1);
                         student.Email = rdr.GetString(2);
                         student.Photo = rdr.GetString(3);
                         student.UtasStart = rdr.GetDateTime(4);

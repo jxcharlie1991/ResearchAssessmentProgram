@@ -1,0 +1,158 @@
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe.config
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\MySql.Data.dll
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\Google.Protobuf.dll
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\Renci.SshNet.dll
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\bin\Debug\MySql.Data.xml
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\App.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.cache
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.lref
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.baml
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.g.resources
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research_Assessment_Program.Properties.Resources.resources
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.GenerateResource.cache
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CopyComplete
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.exe
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.baml
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.baml
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.baml
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.baml
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.g.cs
+C:\Users\Charlie\source\repos\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.baml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe.config
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Google.Protobuf.dll
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Renci.SshNet.dll
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\MySql.Data.xml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\App.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.cache
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.lref
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.baml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.baml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.baml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.baml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.baml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.baml
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.g.resources
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research_Assessment_Program.Properties.Resources.resources
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.GenerateResource.cache
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CopyComplete
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.exe
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\Desktop\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\App.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe.config
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Google.Protobuf.dll
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Renci.SshNet.dll
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\MySql.Data.xml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\App.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.cache
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.lref
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\App.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.baml
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.g.resources
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research_Assessment_Program.Properties.Resources.resources
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.GenerateResource.cache
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CopyComplete
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.exe
+C:\Users\Charlie\Desktop\cc5545e41c170a00257fd4753bbe308d\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe.config
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.exe
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Google.Protobuf.dll
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\Renci.SshNet.dll
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\bin\Debug\MySql.Data.xml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csprojAssemblyReference.cache
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\App.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.cache
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.lref
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\App.baml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\MainWindow.baml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\CumulativeWindow.baml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\PublicationCompleteView.baml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherBasicView.baml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.baml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\View\ShowNameWindow.baml
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.g.resources
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research_Assessment_Program.Properties.Resources.resources
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.GenerateResource.cache
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CopyComplete
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.exe
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\source\C# 后台\C# WPF ADO.NET\C# WPF ADO.NET\Research Assessment Program\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\bin\Debug\Research Assessment Program.exe.config
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\bin\Debug\Research Assessment Program.exe
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\bin\Debug\Research Assessment Program.pdb
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\bin\Debug\Google.Protobuf.dll
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\bin\Debug\Renci.SshNet.dll
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\bin\Debug\MySql.Data.xml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program.csprojAssemblyReference.cache
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\MainWindow.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\CumulativeWindow.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\PublicationCompleteView.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\ResearcherBasicView.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\ShowNameWindow.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\App.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.cache
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program_MarkupCompile.lref
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\App.baml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\MainWindow.baml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\CumulativeWindow.baml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\PublicationCompleteView.baml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\ResearcherBasicView.baml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\ResearcherCompleteView.baml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\View\ShowNameWindow.baml
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program.g.resources
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research_Assessment_Program.Properties.Resources.resources
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.GenerateResource.cache
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program.csproj.CopyComplete
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program.exe
+C:\Users\Charlie\Documents\GitHub\ResearchAssessmentProgram\Research Assessment Program\obj\Debug\Research Assessment Program.pdb

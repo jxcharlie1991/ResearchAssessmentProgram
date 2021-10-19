@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Research_Assessment_Program.View.PublicationCompleteView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Research_Assessment_Program.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="300">
+    <Grid Name="CompletePublicationList">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Name="DOIBlock" Text="DOI: " Margin="5" Grid.Column="0" Grid.Row="0"/>
+        <TextBlock Name="DOIData" Text="{Binding DOI}" TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="0"/>
+        <TextBlock Name="TitleBlock" Text="Title: " Margin="5" Grid.Column="0" Grid.Row="1"/>
+        <TextBlock Name="TitleData" Text="{Binding Title}" TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock Name="AuthorBlock" Text="Authors: " Margin="5" Grid.Column="0" Grid.Row="2"/>
+        <TextBlock Name="AuthorData" Text="{Binding Author}"  TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="2"/>
+        <TextBlock Name="YearBlock" Text="Publication Year: " Margin="5" Grid.Column="0" Grid.Row="3"/>
+        <TextBlock Name="YearData" Text="{Binding Year}" TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="3"/>
+        <TextBlock Name="TypeBlock" Text="Type: " Margin="5" Grid.Column="0" Grid.Row="4"/>
+        <TextBlock Name="TypeData" Text="{Binding Type}" TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="4"/>
+        <TextBlock Name="CiteAsBlock" Text="Cite As: " Margin="5" Grid.Column="0" Grid.Row="5"/>
+        <TextBlock Name="CiteAsData" Text="{Binding CiteAs}" TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="5"/>
+        <TextBlock Name="AvailableBlock" Text="Available date: " Margin="5" Grid.Column="0" Grid.Row="6"/>
+        <TextBlock Name="AvailableData" Text="{Binding Available, StringFormat=dd-MM-yyyy}" TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="6"/>
+        <TextBlock Name="AgeBlock" Text="Age: " Margin="5" Grid.Column="0" Grid.Row="7"/>
+        <TextBlock Name="AgeData" Text="{Binding Age}" TextWrapping="Wrap" Margin="5" Grid.Column="1" Grid.Row="7"/>
+    
+
+    </Grid>
+</UserControl>
